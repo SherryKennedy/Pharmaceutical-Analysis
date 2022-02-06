@@ -36,5 +36,5 @@ Python, Pandas, Graphing and Charts for an Analysis of some Pharmaceutical regim
 
 * Looked across all previously generated figures and tables and wrote observations or inferences that could be made from the data. Included these observations at the top of notebook.
 
-
+Coded by SherryK all rights reserved.
 
