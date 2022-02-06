@@ -26,6 +26,8 @@ Python, Pandas, Graphing and Charts for an Analysis of some Pharmaceutical regim
 
 * Used Matplotlib, generated a box and whisker plot of the final tumor volume for all four treatment regimens and highlighted any potential outliers in the plot by changing their color and style.
 
+![Drug Regimen Image](DrugRegimen.jpg)
+
 * Selected a mouse that was treated with Capomulin and generated a line plot of tumor volume vs. time point for that mouse.
 
 * Generated a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
